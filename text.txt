@@ -1,3 +1,1 @@
 Hi there
-
-This is super important line that I will delete later to show git revert option
